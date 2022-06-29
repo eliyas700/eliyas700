@@ -1,5 +1,5 @@
 <p align="right">
-  <a https://wakatime.com/@f1b08d20-86a1-41ea-8276-0edfa00c8201><img alt="" <img alt="" src="https://wakatime.com/badge/user/5ab2bc94-376b-4ada-bbd1-a6f90df1afca.svg">></a>
+  <a https://wakatime.com/@f1b08d20-86a1-41ea-8276-0edfa00c8201><img alt="" src="https://wakatime.com/badge/user/5ab2bc94-376b-4ada-bbd1-a6f90df1afca.svg"></a>
 
 </p>
 
