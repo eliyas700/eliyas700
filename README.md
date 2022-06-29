@@ -1,3 +1,8 @@
+<p align="right">
+  <a https://wakatime.com/@f1b08d20-86a1-41ea-8276-0edfa00c8201><img alt="" src="https://wakatime.com/photo/f1b08d20-86a1-41ea-8276-0edfa00c8201?s=420&cache=false&time=1656533567.225436"></a>
+
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on React.JS<br>👯 I’m looking to collaborate on Node.js<br>🤝 I’m looking for help with My SQL<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about React.JS<br>⚡ Fun fact Code Code Code
 
