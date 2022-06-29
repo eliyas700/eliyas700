@@ -2,7 +2,10 @@
   <a href="https://wakatime.com/@eliyas700"><img alt="" src="https://wakatime.com/badge/user/f1b08d20-86a1-41ea-8276-0edfa00c8201.svg"></a>
 
 </p>
-
+<h3 align="center">
+  Hi there, I'm Eliyas Hossain
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> 
 # 💫 About Me:
 🔭 I’m currently working on React.JS<br>👯 I’m looking to collaborate on Node.js<br>🤝 I’m looking for help with My SQL<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about React.JS<br>⚡ Fun fact Code Code Code
 
