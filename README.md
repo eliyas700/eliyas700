@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on React.JS<br>👯 I’m looking to collaborate on Node.js<br>🤝 I’m looking for help with My SQL<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about React.JS<br>⚡ Fun fact Code Code Code
+🔭 I’m currently working on React.JS<br>👯 I’m looking to collaborate on Node.js<br>🤝 I’m looking for help with My SQL<br>🌱 I’m currently learning Node.JS<br>💬 Ask me about React.JS<br>⚡ Fun fact Code Code Code <br>📫 Mail me: [eliyashossain700@gmail.com](mailto:eliyashossain700@gmail.com)<br>🌐 Web: [Eliyas Hossain](https://eliyas-portfolio.netlify.app/)
 
 
 ## 🌐 Socials:
